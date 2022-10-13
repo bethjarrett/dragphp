@@ -1,0 +1,45 @@
+@import url(https://fonts.bunny.net/css?family=fahkwang:700|kite-one:400);
+@import url(https://fonts.bunny.net/css?family=fira-sans:400|yeseva-one:400);
+
+body {
+  font-family: 'Fira Sans', sans-serif;
+}
+hr {
+  border: 2px solid;
+}
+.CD {
+  font-family: 'Fahkwang', sans-serif;
+  text-transform: uppercase;
+}
+.DR {
+  font-family: 'Yeseva One', serif;
+  text-transform: lowercase;
+}
+h3, h4 {
+  font-family: 'Yeseva One', serif;
+}
+a, a:link, a:visited, a:active {
+  color: #000;
+}
+a:hover {
+  color:#fff;
+  text-decoration: none;
+}
+
+.ep-profile-img {
+  max-width: 100px !important;
+}
+
+.profile-img {
+  max-width: 200px;
+}
+
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.season-img {
+  max-width: 75%;
+
+}
